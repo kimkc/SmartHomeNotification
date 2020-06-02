@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.oss.mapper.InfraredLogMapper">
+
+<insert id="hourInsert">
+	insert into tbl_infraredHourLog (hour, name, count) values(#{hour}, #{name}, #{count})
+</insert>
+
+<insert id="todayInsert">
+	insert into tbl_infraredTodayLog (today, name, count) values(#{today}, #{name}, #{count})
+</insert>
+
+</mapper>
