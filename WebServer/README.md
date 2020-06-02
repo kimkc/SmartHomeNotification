@@ -13,12 +13,13 @@
 - Back-End: **Spring 5.0.7.RELEASE** (Lombok 1.18.0, HikariCP 2.7.8, Mybatis 3.4.6, jackson 2.9.5, quartz 2.3.0, httpclient 4.4), **Java 1.8(jdk1.8.0_202)**
 
 ## 3. 라이선스
-- This project is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0), also included in our repository in [the LICENSE file](https://github.com/khw5123/SmartHomeNotification/blob/master/LICENSE).
+- This project is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0), also included in our repository in [the LICENSE file](https://github.com/kimkc/SmartHomeNotification/blob/master/LICENSE).
 
 ## 4. 사용 시나리오
 ### 4-1. 일기 예보
 ![Web Server Forecast](/resources/image/serverForecast.jpg)
-- openAPI로부터 3시간마다 기상정보를 HTTP GET 방식의 Json으로 받아 서버에서 처리 후 웹으로 보여줍니다.- - **아침 7시마다** 집 안의 라즈베리 파이가 **기상 예보**를 스피커로 알려줄 수 있게 Socket 통신으로 기상 정보를 보내줍니다.
+- openAPI로부터 3시간마다 기상정보를 HTTP GET 방식의 Json으로 받아 서버에서 처리 후 웹으로 보여줍니다. 
+-**아침 7시마다** 집 안의 라즈베리 파이가 **기상 예보**를 스피커로 알려줄 수 있게 Socket 통신으로 기상 정보를 보내줍니다.
 ***
 
 ### 4-2. 온/습도 
