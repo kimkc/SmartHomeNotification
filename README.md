@@ -30,4 +30,4 @@
 - 시연 영상: [https://www.youtube.com/watch?v=sqL7J6I2UBc&t=3s](https://www.youtube.com/watch?v=sqL7J6I2UBc&t=3s)
 
 ## 4. 라이센스
-This project is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0), also included in our repository in [the LICENSE file](https://github.com/khw5123/SmartHomeNotification/blob/master/LICENSE).
+This project is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0), also included in our repository in [the LICENSE file](https://github.com/kimkc/SmartHomeNotification/blob/master/LICENSE).
