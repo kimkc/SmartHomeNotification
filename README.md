@@ -17,7 +17,7 @@
 
 ## 2. SW 아키텍처
 <p align="center">
-    <img src="/Contest/SmartHomeNotification/resources/image/Architecture.png", width="640">
+    <img src="/resources/image/Architecture.png", width="640">
 </p>
 
 - [라즈베리 파이](https://github.com/khw5123/Study/tree/master/Contest/SmartHomeNotification/RaspberryPi) 및 [카카오톡](https://github.com/khw5123/Study/tree/master/Contest/SmartHomeNotification/KakaoTalk)에 대한 구체적인 설명
