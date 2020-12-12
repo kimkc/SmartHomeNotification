@@ -1,5 +1,5 @@
 # 스마트 홈 알리미
-
+2019   
 1. 프로젝트 설명
 
 2. SW 아키텍처
@@ -25,9 +25,9 @@
 - [서버 및 웹](https://github.com/kimkc/SmartHomeNotification/tree/master/WebServer)에 대한 구체적인 설명
 - [아두이노](https://github.com/kimkc/SmartHomeNotification/tree/master/Arduino)에 대한 구체적인 설명
 
-## 3. 데모 및 시연 영상
-- 데모: [http://106.10.35.183:8080/safehome](http://106.10.35.183:8080/safehome)
-- 시연 영상: [https://www.youtube.com/watch?v=sqL7J6I2UBc&t=3s](https://www.youtube.com/watch?v=sqL7J6I2UBc&t=3s)
+## ~~3. 데모 및 시연 영상~~
+- ~~데모: [http://106.10.35.183:8080/safehome](http://106.10.35.183:8080/safehome)~~
+- ~~시연 영상: [https://www.youtube.com/watch?v=sqL7J6I2UBc&t=3s](https://www.youtube.com/watch?v=sqL7J6I2UBc&t=3s)~~
 
 ## 4. 라이센스
 This project is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0), also included in our repository in [the LICENSE file](https://github.com/kimkc/SmartHomeNotification/blob/master/LICENSE).
